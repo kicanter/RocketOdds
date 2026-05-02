@@ -6,7 +6,7 @@ build-backend = "hatchling.build"
 name = "rocketl"
 version = "0.1"
 authors = [
-    { name="Kieran Canter", email="contact@kierancanter.dev" }
+    { name="Kieran Canter", email="him@kicanter.dev" }
 ]
 description = "RocketOdds ETL pipeline CLI"
 readme = "README.md"
